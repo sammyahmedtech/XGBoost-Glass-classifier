@@ -1,6 +1,7 @@
 # XGBoost-Glass-classifier
 
 XGBoost Glass classifier, kaggle dataset:
+* Python 3
 * XGBoost classifier
 * Grid searched hyperparameters 
 * Confusion matrix and Classification report generated
